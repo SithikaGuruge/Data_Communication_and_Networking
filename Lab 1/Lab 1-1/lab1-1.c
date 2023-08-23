@@ -4,7 +4,7 @@
 
 // user-defined header files // // #include "node.h"
 #include "node.h"
-
+#include "stdlib.h"
 // macros
 
 #define INSERT_BEFORE 1
@@ -40,7 +40,7 @@ void run(list *lst) {
     }
 
     int op = 1;
-    while (true) {
+    while (1) {
         printf("Enter a space seperated values: ");
         scanf("%d", &op);
         int index;
@@ -71,7 +71,7 @@ void run(list *lst) {
 void print_list(list *lst)
 {
     node *curr = lst->head;
-    while (true)
+    while (1)
     {
         printf("%s ", curr->word);
         curr = curr->next;
