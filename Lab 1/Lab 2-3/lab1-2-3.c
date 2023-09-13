@@ -5,6 +5,7 @@
 // user-defined header files
 //#include "chain.h"
 #include "chain.c"
+#include<math.h>
 
 // function prototypes
 void print_chain(chain * chn); 

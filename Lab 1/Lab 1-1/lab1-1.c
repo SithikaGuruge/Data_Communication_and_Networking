@@ -1,5 +1,6 @@
 // general purpose standard C lib
-
+#include <stdio.h>
+#include <string.h>
 
 
 // user-defined header files // // #include "node.h"

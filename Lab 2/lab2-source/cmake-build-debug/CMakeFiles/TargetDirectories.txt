@@ -1,0 +1,3 @@
+D:/Academic my Sem -3/Data Communication and Networking/Labs/Lab 2/lab2-source/cmake-build-debug/CMakeFiles/lab2_source.dir
+D:/Academic my Sem -3/Data Communication and Networking/Labs/Lab 2/lab2-source/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Academic my Sem -3/Data Communication and Networking/Labs/Lab 2/lab2-source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
